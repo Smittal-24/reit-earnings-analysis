@@ -1,0 +1,9 @@
+{
+  "reits": [
+    { "name": "Embassy Office Parks REIT", "ticker": "EMBASSY", "exchange": "NSE/BSE", "added_on": "2026-09-20", "backfilled_quarters": [] },
+    { "name": "Mindspace Business Parks REIT", "ticker": "MINDSPACE", "exchange": "NSE/BSE", "added_on": "2026-09-20", "backfilled_quarters": [] },
+    { "name": "Brookfield India Real Estate Trust", "ticker": "BIRET", "exchange": "NSE/BSE", "added_on": "2026-09-20", "backfilled_quarters": [] },
+    { "name": "Nexus Select Trust", "ticker": "NXST", "exchange": "NSE/BSE", "added_on": "2026-09-20", "backfilled_quarters": [] },
+    { "name": "Knowledge Realty Trust", "ticker": "KRT", "exchange": "NSE/BSE", "added_on": "2026-09-20", "backfilled_quarters": [] }
+  ]
+}
